@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary">#6200EE</color> <!-- Indigo -->
+    <color name="primary_variant">#3700B3</color> <!-- Darker Indigo -->
+    <color name="primary_light">#9A67EA</color> <!-- Lighter Indigo -->
+
+    <!-- Secondary colors -->
+    <color name="secondary">#03DAC5</color> <!-- Teal -->
+    <color name="secondary_variant">#018786</color> <!-- Darker Teal -->
+    <color name="secondary_light">#66FFF9</color> <!-- Lighter Teal -->
+
+    <!-- Background colors -->
+    <color name="background">#FFFFFF</color> <!-- White -->
+    <color name="background_dark">#121212</color> <!-- Dark background for dark theme -->
+
+    <!-- Text colors -->
+    <color name="textPrimary">#212121</color> <!-- Dark Text -->
+    <color name="textSecondary">#757575</color> <!-- Light Text -->
+    <color name="textAccent">#6200EE</color> <!-- Accent Text (Purple) -->
+
+    <!-- Accent colors -->
+    <color name="accent">#FF4081</color> <!-- Pink Accent -->
+    <color name="error">#B00020</color> <!-- Red for errors -->
+
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color> <!-- Green for success -->
+    <color name="warning">#FF9800</color> <!-- Amber for warnings -->
+    <color name="info">#2196F3</color> <!-- Blue for info -->
+
+    <!-- Card and Button background -->
+    <color name="cardBackground">#F5F5F5</color> <!-- Light Grey for cards -->
+    <color name="buttonBackground">#6200EE</color> <!-- Primary color for buttons -->
+
+    <!-- Text for cards and buttons -->
+    <color name="buttonText">#FFFFFF</color>
+    <color name="red">#B00020</color>
+    <color name="green">#4CAF50</color> <!-- White for button text -->
+</resources>

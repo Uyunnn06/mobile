@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name"> Smart Budget </string>
+
+    <!-- Add Expense Fragment -->
+    <string name="add_expense_title">Tambah Pengeluaran</string>
+    <string name="expense_description_hint">Deskripsi Pengeluaran</string>
+    <string name="expense_amount_hint">Jumlah Pengeluaran</string>
+    <string name="save_expense_button">Simpan Pengeluaran</string>
+
+    <!-- Add Income Fragment -->
+    <string name="add_income_title">Tambah Pemasukan</string>
+    <string name="income_description_hint">Deskripsi Pemasukan</string>
+    <string name="income_amount_hint">Jumlah Pemasukan</string>
+    <string name="save_income_button">Simpan Pemasukan</string>
+
+    <!-- Summary Fragment -->
+    <string name="summary_title">Ringkasan Keuangan</string>
+    <string name="total_expenses">Total Pengeluaran</string>
+    <string name="total_income">Total Pemasukan</string>
+
+    <!-- Bottom Navigation Menu -->
+    <string name="menu_expenses">Pengeluaran</string>
+    <string name="menu_incomes">Pemasukan</string>
+    <string name="menu_summary">Ringkasan</string>
+
+        <!-- Array mata uang -->
+        <string-array name="currency_array">
+            <item>USD</item>
+            <item>EUR</item>
+            <item>JPY</item>
+            <item>GBP</item>
+            <item>IDR</item> <!-- IDR untuk Rupiah Indonesia -->
+            <item>MYR</item>
+            <item>AUD</item>
+            <item>SGD</item>
+        </string-array>
+
+</resources>
